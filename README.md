@@ -9,3 +9,5 @@ Ejemplos de código del módulo "Lenguajes de Marcas y Sistemas de Gestión de l
 2 - [Ejercicios API externa de Odoo](https://mybinder.org/v2/gh/IES-Rafael-Alberti/LMSGI-21-22-codes/HEAD?labpath=%2Fapi-odoo%2FEjercicios_API_externa_de_Odoo.ipynb).
 
 3 - [Validación XML en Python](https://mybinder.org/v2/gh/IES-Rafael-Alberti/LMSGI-21-22-codes/HEAD?labpath=xml%2Fvalidacion%2FValidaci%C3%B3n_XML_en_Python.ipynb).
+
+4 - [Generación, validación y lectura de RSS en Python](https://mybinder.org/v2/gh/IES-Rafael-Alberti/LMSGI-21-22-codes/HEAD?labpath=%2Fxml%2Frss%2Fgeneracion_validacion_y_lectura_de_rss_con_python.ipynb).
